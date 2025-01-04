@@ -8,7 +8,6 @@ import {
 
 import { usePathname } from 'next/navigation';
 import Link from 'next/link';
-import { ClientPageRoot } from 'next/dist/client/components/client-page';
 import clsx from 'clsx';
 
 // Map of links to display in the side navigation.
